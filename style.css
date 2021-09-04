@@ -8,3 +8,20 @@
     margin-right: auto;
     
 }
+
+#tribute-info {
+    text-align: center;
+}
+
+
+#img-caption {
+    text-align: center;
+    font-size: 28px;
+    font-style:inherit;
+}
+
+#title {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif.;
+    
+}

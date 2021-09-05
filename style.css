@@ -5,15 +5,18 @@
 
 #image {
     display: block;
-    max-width: 100%;
+    max-width: 30%;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50px;
+    border-radius: 508px;
+    border: 5px solid gold;
+    size: ;
     
 }
 
 #tribute-info {
     text-align: center;
+    background-color: whitesmoke;
 }
 
 
@@ -27,7 +30,7 @@
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 45px;
     color: black;
     
 

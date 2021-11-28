@@ -11,6 +11,12 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+
 .header img {
     display: block;
     margin-left: auto;

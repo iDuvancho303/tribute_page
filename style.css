@@ -5,6 +5,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
     padding: 20px 20px;
+    border: 5px solid black;
 }
 
 .header h1, h3 {
@@ -14,7 +15,11 @@ body {
 h1 {
     font-size: 45px;
     font-weight: bold;
-    
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .header img {
@@ -23,4 +28,10 @@ h1 {
     margin-right: auto;
     width: 70%;
     opacity: 0.8;
+    border-radius: 3px;
+}
+
+.text {
+    width: 100%;
+    padding: 5px 90px;
 }
